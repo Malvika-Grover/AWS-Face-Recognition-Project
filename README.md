@@ -1,4 +1,7 @@
 # AWS-Face-Recognition-Project
+<img width="1013" alt="Screenshot 2023-10-07 at 9 51 43 PM" src="https://github.com/Malvika-Grover/AWS-Face-Recognition-Project/assets/43317657/ec2964a7-17d7-46c6-acf7-4b3e02ea7ad9">
+
+
 
 **Command used in the project**
 
