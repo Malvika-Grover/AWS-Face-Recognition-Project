@@ -35,3 +35,9 @@ aws s3 mb s3://bucket-name --region us-east-1
 4. Now you can install boto3 library using -> pip3 install boto3 
 
 5. While testing you might face an issue in line - from PIL import Image, to resolve this use -> pip3 install pillow
+
+For the steps of the entire project - https://medium.com/@grover.malvika1/face-recognition-using-amazon-rekognition-42fb5fe27fee 
+To connect - https://www.linkedin.com/in/malvika-grover-491130142/
+
+
+Happy Coding !!
